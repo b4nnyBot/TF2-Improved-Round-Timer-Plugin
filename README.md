@@ -10,6 +10,6 @@ Value of -1 disables round timer override, reverts back to default 10 minutes
 Changes take effect on round restart   
 
 # Recommended Settings
-round_time_override 180
-mp_timelimit 0
-mp_winlimit 5
+round_time_override 180    
+mp_timelimit 0    
+mp_winlimit 5    
